@@ -6,6 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Make up by Marcelle`,
     siteTitleAlt: `Make up by Marcelle`,
   },
   plugins: [
